@@ -1,0 +1,1 @@
+"""Nivesh financial research application."""

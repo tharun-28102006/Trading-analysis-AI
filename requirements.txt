@@ -1,0 +1,6 @@
+fastapi>=0.115,<1
+uvicorn[standard]>=0.30,<1
+pandas>=2.2,<4
+numpy>=1.26,<3
+python-multipart>=0.0.9,<1
+# Optional tree model. Install separately if desired: lightgbm

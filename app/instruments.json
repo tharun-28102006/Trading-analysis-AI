@@ -1,0 +1,18 @@
+{
+  "source": "TejHQ Indian Markets keyless NSE EOD API; source dataset license: MIT",
+  "last_updated": "2026-10-18",
+  "coverage_note": "The configured Nivesh research/watchlist equities are refreshed. This is not a NIFTY 50 constituent list. TejHQ publishes NSE equity bhavcopy history from 2010-01-04; a symbol can have a shorter listing history.",
+  "index_limitations": "TejHQ keyless API documents equity OHLCV, snapshots and corporate actions. It does not provide NIFTY 50 index OHLCV or NIFTY 50 historical membership. Nivesh does not fabricate these.",
+  "instruments": [
+    {"instrument_id":"NSE_EQ_RELIANCE","symbol":"RELIANCE","name":"Reliance Industries","sector":"Energy","exchange":"NSE","index_member":false,"provider":"tejhq","provider_symbol":"RELIANCE"},
+    {"instrument_id":"NSE_EQ_TCS","symbol":"TCS","name":"Tata Consultancy Services","sector":"Information Technology","exchange":"NSE","index_member":false,"provider":"tejhq","provider_symbol":"TCS"},
+    {"instrument_id":"NSE_EQ_HDFCBANK","symbol":"HDFCBANK","name":"HDFC Bank","sector":"Financial Services","exchange":"NSE","index_member":false,"provider":"tejhq","provider_symbol":"HDFCBANK"},
+    {"instrument_id":"NSE_EQ_ICICIBANK","symbol":"ICICIBANK","name":"ICICI Bank","sector":"Financial Services","exchange":"NSE","index_member":false,"provider":"tejhq","provider_symbol":"ICICIBANK"},
+    {"instrument_id":"NSE_EQ_INFY","symbol":"INFY","name":"Infosys","sector":"Information Technology","exchange":"NSE","index_member":false,"provider":"tejhq","provider_symbol":"INFY"},
+    {"instrument_id":"NSE_EQ_BHARTIARTL","symbol":"BHARTIARTL","name":"Bharti Airtel","sector":"Telecommunication","exchange":"NSE","index_member":false,"provider":"tejhq","provider_symbol":"BHARTIARTL"},
+    {"instrument_id":"NSE_EQ_ITC","symbol":"ITC","name":"ITC","sector":"Consumer Goods","exchange":"NSE","index_member":false,"provider":"tejhq","provider_symbol":"ITC"},
+    {"instrument_id":"NSE_EQ_SBIN","symbol":"SBIN","name":"State Bank of India","sector":"Financial Services","exchange":"NSE","index_member":false,"provider":"tejhq","provider_symbol":"SBIN"},
+    {"instrument_id":"NSE_EQ_LT","symbol":"LT","name":"Larsen & Toubro","sector":"Construction","exchange":"NSE","index_member":false,"provider":"tejhq","provider_symbol":"LT"},
+    {"instrument_id":"NSE_EQ_HINDUNILVR","symbol":"HINDUNILVR","name":"Hindustan Unilever","sector":"Consumer Goods","exchange":"NSE","index_member":false,"provider":"tejhq","provider_symbol":"HINDUNILVR"}
+  ]
+}
